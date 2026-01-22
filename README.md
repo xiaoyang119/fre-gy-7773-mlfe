@@ -16,3 +16,18 @@ This repository contains the course materials for FRE-GY 7773 - Machine Learning
   - [01_tools_matplotlib.ipynb](./01_tools_matplotlib.ipynb) - Introduction to Matplotlib for data visualization.
   - [01_tools_numpy.ipynb](./01_tools_numpy.ipynb) - Introduction to NumPy for numerical computing.
   - [01_tools_pandas.ipynb](./01_tools_pandas.ipynb) - Introduction to Pandas for data manipulation.
+
+## Installation
+
+1. Clone this repository and navigate to the project directory:
+
+   ```bash
+   git clone https://github.com/fbourgey/fre-gy-7773-mlfe.git
+   cd fre-gy-7773-mlfe
+   ```
+
+2. Synchronize with [uv](https://docs.astral.sh/uv/)
+
+   ```bash
+   uv sync
+   ```
