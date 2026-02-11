@@ -222,3 +222,5 @@ __marimo__/
 11_neural_networks.ipynb
 12_deep_learning.ipynb
 utils/mse.py
+04_california_housing_example.ipynb
+misc/
